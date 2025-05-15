@@ -278,5 +278,16 @@
         "valueType": "string"
       }
     ]
+  },{
+    "id": "banner",
+    "fields": [
+      {
+        "component": "text",
+        "name": "banner-text",
+        "value": "",
+        "label": "Banner Text",
+        "valueType": "string"
+      }
+    ]
   }
 ]
